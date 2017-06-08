@@ -1,0 +1,15 @@
+body{
+	width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+
+}
+
+#main-container{
+	background-color: white;
+}
+
+#question{
+	font-weight: bold;
+}
